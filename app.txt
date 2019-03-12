@@ -1,5 +1,5 @@
 import module1
-
+import feature2
 
 this is app version 1
 this is little changes to m1
