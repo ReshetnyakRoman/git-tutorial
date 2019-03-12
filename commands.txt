@@ -4,5 +4,15 @@ $ git init
 $ git add commands.txt
 3. добавить все файлы 
 $ git add .
-3. Создать 1й коммит
+4. Создать 1й коммит
+$ git commit -m 'Commit m1 - mean Master first commit'
+5. Добавить небольшие изменения к комиту и изменить комментарий
+$ git commit  --amend -m 'Commit m1'
+6. Добавить удаленный репозиторий
+$ git remote add origin https://github.com/ReshetnyakRoman/git-tutorial.git
+7. Список репозториев
+$ git remote
+8. добавить удалленый репозиторий основной референс для ветки мастер
+$ git push --set-upstream origin master // git push -u origin master
+9. Внести изменения на удаленном репо и подтянуть и обновить локальный до текущего
 
