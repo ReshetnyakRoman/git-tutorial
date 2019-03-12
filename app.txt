@@ -1,5 +1,6 @@
 import module1
 import module3
+import module5
 import feature2
 import feature3
 import feature4
@@ -14,4 +15,7 @@ we add module3
 we add feature2
 we add feature3
 we add feature4
+we add feature5
+we add feature7
+we add module5
 
