@@ -8,4 +8,5 @@ this is little changes to m1
 this going to be m2 made on origin
 we decide to delete feature1
 we add feature2
+we add module2
 we add feature3
